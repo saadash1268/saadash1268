@@ -2,7 +2,7 @@
 
 My name is Saad, and I'm an aspiring developer with a distinctive journey. I earned my geography degree while simultaneously tending bar, honing multitasking and customer service skills. Amid the challenges of the COVID-19 pandemic, I transitioned into the role of a residential care officer, providing essential support to those in need. These experiences shaped my path, emphasising adaptability and resilience, and kindled my passion for technology and problem-solving.
 
-With a geography foundation and hands-on service industry experience, I'm well-prepared to excel in dynamic environments. Just as I crafted the perfect cocktails and offered vital care during the pandemic, I'm now committed to a career in tech. I'm eager to tackle complex challenges, simplify them, and make technology accessible.
+With a geography foundation and hands-on service industry experience, I'm well-prepared to excel in dynamic environments. Just as I crafted the perfect cocktails and offered vital care during the pandemic, I'm now committed to a career in tech. I have completed a full stack bootcamp and am eager to tackle complex challenges, simplify them, and make technology accessible.
 
 My shift to the tech world was driven by a desire for a more significant impact. I'm excited to explore this new path and currently fine-tuning my software development skills, combining a unique background with a love for learning and solving problems. I'm enthusiastic about the endless possibilities in tech and eager to embrace the opportunities in my new tech career.
 
